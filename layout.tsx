@@ -16,7 +16,6 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "AI Construction ERP",
   description: "AI-powered construction management platform",
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
